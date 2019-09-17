@@ -1,0 +1,60 @@
+body{
+	width:680px;
+	height: 444px;
+}
+table{
+	margin:0 auto;
+	width:656px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+#tab1{
+	height:40px;
+	line-height:40px;
+}
+#tab1 tr td a{
+	display: block;
+	border:2px solid #ccc;
+}
+#tab1 tr td a:hover{
+	background:#ccc;
+	color:orange;
+}
+#tab1_td{
+	background:#ccc;
+	color:orange;
+}
+#tab2{
+	width:420px;
+	margin:0 auto;
+	border:2px solid #333;
+	border-collapse: collapse;
+}
+#tab2 td{
+	height: 30px;
+	border:2px solid #333;
+}
+#tab3{
+	margin:0 auto;
+	border:2px solid #333;
+	border-collapse: collapse;
+}
+#tab3 td{
+	height: 30px;
+	border:2px solid #333;
+}
+p{
+	text-align: center;
+}
+p a{
+	text-decoration: none;
+}
+span.text{
+	display: inline-block;
+	width: 160px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}

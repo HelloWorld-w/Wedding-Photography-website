@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+i{
+	text-shadow:none;
+	
+}
+#footer-con{
+	width:480px;
+	height:110px;
+	border-bottom:1px solid #ccc;
+	float:left;
+	margin:10px 3px 0 3px;
+}
+#footer-left{
+	float:left;
+	width:120px;
+	height:100px;
+}
+#footer-right{
+	float:left;
+	width:340px;
+	height:100px;
+	margin:0 0 0 10px;
+}
+#footer-right dt{
+	font-weight:bold;
+}
+.footer_text{
+	font-size:14px;
+	text-indent:2em;
+}
+.footer_df{
+	font-size:12px;
+	padding:0 0 0 18px;
+	background:url(../images/person.png) no-repeat center left;
+}
+.footer_ds{
+	font-size:12px;
+	padding:0 0 0 18px;
+	background:url(../images/person.png) no-repeat center left;
+}
+.footer_dt{
+	font-size:12px;
+	padding:0 0 0 18px;
+	background:url(../images/person.png) no-repeat center left;
+}

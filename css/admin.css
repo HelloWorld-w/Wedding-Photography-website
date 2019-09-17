@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+
+	background:#F5F5F5;
+	margin:120px 560px;
+}
+h1{
+	width:260px;
+	height:80px;
+	background:url(../images/bottom_bg.png) no-repeat left center;
+	text-indent:-9999999;
+}
+table{
+	width:260px;
+	height:160px;
+	border:1px solid black;
+	border-collapse:collapse;
+	text-align:center;
+}
+tr{
+	border:1px solid black;
+}
+tr td{
+	border:1px solid black;
+}

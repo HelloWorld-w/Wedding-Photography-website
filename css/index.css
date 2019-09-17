@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	margin:0 auto;
+	width:980px;
+	background:#f5f5f5;
+}
+p{
+	height:50px;
+	line-height:50px;
+	font-family:aaa;
+	font-size:18px;
+	color:#333;
+	text-shadow:10px 10px 2px #ccc;
+}
+#content{
+	width:980px;
+	height:990px;
+}
+#footer{
+	clear:both;
+	width:980px;
+	height:420px;
+}
+#bottom{
+	background:#ccc;
+	font-size:14px;
+	text-align:center;
+}

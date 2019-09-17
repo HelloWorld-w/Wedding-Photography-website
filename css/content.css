@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+@font-face {
+   font-family:aaa;
+   src:url('../font/VINERITC.TTF');
+}
+.top_con_left{
+	margin:10px 0 0 0;
+	float:left;
+}
+.top_con_left img{
+	width:311px;
+	height:512px;
+}
+.top_con_right{
+	width:646px;
+	height:502px;
+	float:right;
+	margin:10px 0 0 0;
+	background:#fff;
+	padding:5px;
+}
+.top_con_right img{
+	width:320px;
+	height:198px;
+}
+.top_con_right dl{
+	display:inline-block;
+	outline:1px solid #999;
+	margin:0 0 10px 0;
+}
+.top_con_right dl dt{
+	width:320px;
+	height:198px;
+}
+.top_con_right dl dd{
+	height:50px;
+	line-height:50px;
+	font-size:14px;
+}
+#bottom_con{
+	clear:both;
+	padding:55px 0 0 0;
+	width:980px;
+	height:352px;
+}
+#bottom_con img{
+	width:485px;
+	height:352px;
+	outline:5px solid #fff;
+}

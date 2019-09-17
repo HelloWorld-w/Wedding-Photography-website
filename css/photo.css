@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+hr{
+	width:1400px;
+	margin: 15px 0 0 -240px;
+	color:#ddd;
+}
+#photo{
+	width:980px;
+}
+#photo{
+	margin:8px 0 0 0;
+	box-shadow: 1px 0 0 0 2px #d7d7d7;
+}
+#photo dl dd{
+	width:300px;
+	height:196px;
+	display:inline-block;
+	outline:5px solid #fff;
+	margin:10px 11px 10px 12px;
+}
+#photo dl dd img{
+	width:300px;
+	height:196px;
+}
+#page{
+	width:980px;
+	height:46px;
+	line-height: 46px;
+	text-align:center;
+}
